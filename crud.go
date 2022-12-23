@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+
 	nomes := []string{}
 	for {
 		fmt.Println(" 1 - Listar \n 2 - Acrescentar \n 3 - Atualizar \n 4 - Deletar \n 5 - Deletar varios \n 0 - Finalizar")
